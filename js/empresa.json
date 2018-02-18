@@ -1,0 +1,12 @@
+{
+	nombre:"EnRedes",
+	vision:"",
+	mision:"",
+	servicios:[
+		{nombre:"",descripcion:"", icono:""},
+		{nombre:"",descripcion:"", icono:""},
+		{nombre:"",descripcion:"", icono:""},
+	],
+	ceo:"Luis Fernando Raga",
+	experiencia:""
+}
